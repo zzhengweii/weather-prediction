@@ -15,6 +15,4 @@ File overview:
 We'll download our dataset from NOAA, a US government agency from [NOAA Search](https://www.ncdc.noaa.gov/cdo-web/search)
 
 
-(inspired by dataquest tutorial)
-
 
