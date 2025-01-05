@@ -27,4 +27,4 @@ To follow this project, please install the following locally:
 
 ## 📊 Data
 
-We'll download our dataset from NOAA, a US government agency from [Deperatment of Statistics of Singapore](https://tablebuilder.singstat.gov.sg/table/TS/M890191)
+We'll download our dataset from Deperatment of Statistics of Singapore, a SG government agency from [Deperatment of Statistics of Singapore](https://tablebuilder.singstat.gov.sg/table/TS/M890191)
