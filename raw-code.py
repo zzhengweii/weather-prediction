@@ -161,3 +161,8 @@ weather.loc["2004-06-01":"2005-6-01"]
 
 
 predictions["diff"].round().value_counts().sort_index().plot()
+
+import pickle
+
+with open("predictions_model.pkl", "wb") as file:
+    pickle.dump(predictions, file)
