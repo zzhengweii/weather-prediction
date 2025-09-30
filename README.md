@@ -1,6 +1,6 @@
 # 📫 Project Overview - Weather Prediction in SG With Python And Machine Learning (Inspired by Dataquest Tutorial)
 
-In this project, I predicted tomorrow's temperature using historical data. Started by downloading a dataset of local weather. You can customize this to your own location. Then, cleaned the data and get it ready for machine learning. Built a system to make historical predictions. Then, addrd more predictors to improve the model. Ending with how to make next-day predictions.
+In this project, I predicted tomorrow's temperature using historical data. Started by downloading a dataset of local weather. You can customize this to your own location. Then, cleaned the data and get it ready for machine learning. Built a system to make historical predictions. Then, added more predictors to improve the model. Ending with how to make next-day predictions.
 
 # 🖥️ Code
 
